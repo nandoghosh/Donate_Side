@@ -2,3 +2,44 @@
     margin: 0px;
     font-family: 'Poppins', sans-serif;
 }
+.header{
+    background: #FAFAFA;
+}
+/* Banner Section */
+.banner{
+    display: flex;
+    justify-content: space-between;
+    padding: 0px 300px 0px 200px;
+    align-items: center;
+    margin-bottom: 130px ;
+}
+.header-title{
+    color: #121212; 
+    font-size: 65px;
+    font-style: normal;
+    font-weight: 700;
+    margin-bottom: 20px;
+}
+.heder-description{
+    color: #707070;
+    font-size: 18px;
+    font-weight: 400;
+    margin-bottom: 30px;
+}
+.btn-primary{
+text-decoration: none;
+color: #FAFAFA;
+border-radius: 5px;
+background: #FF5959;
+padding: 16px;
+margin-right: 20px;
+}
+.btn-watch{
+    text-decoration: none;
+    color: #707070;
+    border: none;
+    padding: 16px;
+}
+.donate-today{
+    text-align: center;
+}
